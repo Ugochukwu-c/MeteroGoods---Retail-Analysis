@@ -94,6 +94,7 @@ Based on the insights derived from MeteroGoods Retail Sales Analysis, the follow
 4. **Customer Purchase Behavior**: Strenghten relationships with bulk buyers, who contributes over 90% of reveue by offering discounts, premium customer service and exclusive poduct          bundles.
 5. **Operational Efficiency**: Use insights to inform inventory plannng and reduce overstocking in low demand products
     
- 
+ ## Conclusion
+ The MeteroGoods Retail Sales Analysis revealed that the 45-54 age grade drives the highest revenue, electronics domnate sales, an bulk purchases account for over 90% of total revenue. Seasonal tends also showed May as the peak sales period, while beauty products underperformed. This insights provide a foundation for targeted marketing, smarter inventory planning, and stronge customer retention strategies, enabling MeteroGoods to make data driven decisions that boost revenue and efficiency.
   
   
