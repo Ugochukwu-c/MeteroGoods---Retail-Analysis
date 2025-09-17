@@ -82,7 +82,14 @@ This analysis addressed sevsral critical business questions. Below are findingss
 2. **Which product category contributes most in overall revenue**: Electronics led all product categories with $156.9k in revenue showing strong demand for tech products and gadgets.
 3. **When are the peak sales period**: May emerged as the peak sales months, generating $58.6k in revenue
 4. **What purchase pattern do top spenders follow**: Bulk purchases accounted for 90% of total revenue (411.1k), far surpassing single purchases.
-5. **Which low performin product category should be improved**: Beauty products generated only $142.0k, signaling weak demand or poor positioning 
+5. **Which low performin product category should be improved**: Beauty products generated only $142.0k, signaling weak demand or poor positioning.
+
+## Recommendations
+Based on the insights derived from MeteroGoods Retail Sales Analysis, the following actions are recommended to guide strategic decision making:
+1. **Customer Targeting and Marketing**: Launch Tailored campaigns for women aged 45-54, focusing on lifestyle and professional products.
+   * Introduce loyalty programs or personalized offer to retain high value customer segments.
+2. **Product Stractegy**: Priotize Electronics in promotions, supplier negotiations and restocking to maximize evenue from the high demand category.
+   * Reaccess beauty products by testing new marketing strategies like influencer partenerships, and bundled offers and if performance does not increase gradually reallocate resources        to stronger categories
     
  
   
