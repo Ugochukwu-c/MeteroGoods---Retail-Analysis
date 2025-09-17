@@ -65,6 +65,22 @@ This project explores sales performance at MeteroGoods Retail Stores, focusing o
   * **Purchase Behavior Analysis**: Understanding customer buying patterns and frequency.
   * **Best Performing Product**: Identifying producttop performing categories based on revenue
   * **Revenue Contribution by Age Group**: Analyzing how different customers age bracket contributes to revenue.
+  These analysis provided a comprehensive view of MeteroGoods retail performance, highlighting both product level and customer level insights. 
+
+## Data Visualization
+To communicate insights effectively, i designed an interactive Excel dashboad combining KPI cards and visual charts. The visualizations where selected to make complex data simple and stakeholder friendly:
+* **KPI Cards**: Displaying high level metrics which includes Total Revenue, Total Quantity and Selling Price for quick performance tracking.
+* **Bar Chart (Best Performing Product)**: Highlighting the top selling products and categories, enabling easy comparison of performance.
+* **Line Chart (Monthly Sales Trend)**: Showing revenue trends across months to uncover seasonality and growth patterns.
+* **Pie Chart (Purchase Behavior Analysis)**: Illustrating customer purchasing distribution for a clear vew of buying patterns.
+*  **Bar Chart (Revenue Contribution by Age Group): Comparing how different age brackets contribute to overall revenue.
+This visualizations combined to a stakeholder ready dashboard allowing decision makersto explore sales peformance, customer behavior, and revenue trends at a glance.
+
+## Key insights
+This analysis addressed sevsral critical business questions. Below are findingss tied directly to each question:
+1. **Which age group drives the highest revenue**: Customerss with ages ranging from 45-54 (Mature Adults) were the top revenue drivers contributing $97.2k in revenue.
+2. **Which product category contributes most in overall revenue**: Electronics led all product categories with $156.9k in revenue showing strong demand for tech products and gadgets. 
+    
  
   ## Data Visualization
   
