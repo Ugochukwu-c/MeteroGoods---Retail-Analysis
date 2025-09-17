@@ -1,22 +1,52 @@
-# MeteroGoods---Retail-Analysis
-Data analysis of MeteroGoods retail focusing on sales performance, product trends, and customer behavior. Through data cleaning, transformation, and visualization in Power BI, the project delivers actionable insights that support decision making and improve business outcomes.
+# MeteroGoods-Retail-Sales-Analysis
+An end-to-end Excel based retail analysis project exploring MeteroGoods sales performance. Includes data cleaning, KPI creation, pivot table dashboards and interactive charts for sakeholders reporting.
 
-# Executive Summary
-**Female customers**aged **35-44** are the highest revenue drivers.
+## Introduction
+This project explores sales performance at MeteroGoods Retail Stores, focusing on customer demographics, product categories, purchase patterns,and sales trends. The goal is to uncover actionable insights that guides business decisions, improve revenue, and optimize inventory
 
-**Electronics** led all product categories. This dominace indicates strong consumer demands for tech products and gadgets
+## Project Description
+* Analyzed Sales data to evaluate revenue performance, customer trends, customer behavour and product trends.
+* Developed key performance indicators (KPIs) that measures business health across time, and product categories.
+* Built a dynamic stakeholder friendly dashboard to monitor sales performance and trends.
+* Provide insightful reporting that supports data driven  decisions in retail operations.
 
-**May** emerged as the peak sales period. This signals that quarterly planning should anticipate spikes around this time
+ **Approach**
+ 1. Data Cleaning & Preparation: Standerdized and structured the MeteroGoods dataset, ensuring accuracy and consistency
+ 2. Exploratory Data Analysis: Performed trend analysis across time, and product categories etc. to identify performance drivers.
+ 3. KPI Development: Calculated core metrics such as total revenue, revenue growth, total quantity, and total selling price
+ 4. Dashboard Design: Develoed an interactive Excel dashboard using pivot tables, charts, and slicers for real time exploration of insights
+ 5. Reporting & Insights: Interpreted the results and provided recommendations for improving sales performance.
 
-**Bulk purchases** accounted to 90.1% of total revenue far surpassing single sales. This highlights the importance of large order customers
+  ## Project Aim 
+  To demonstrate proficiency in data cleaning, KPI development, and dashboard creation by applying Excel based analysis to MeteroGoods dataset, with the goal of uncovering insights that   informs strtegic business decisions.
 
-**Beauty products** contributed the least to both sales and revenue showing either weak demand or poor positioning.
-
-# Recommendations
-1. Markerting campaigns should be tailored to women in the age bracket of 35-44 focusing on life style and professional needs.
-2. Electronics should be prioritized in inventory restocking, promotions, and supplier negotiations.
-3. Promotional campaigns and stock piling before May can maximize sales opportunities.
-4. Giving discounts and special services for bulk buyers to retain and grow this segment.
-5. Either adding discounts or influencer campaigns to boost demand or scale back investment in beauty and divert resources to stronger categories
-
-
+  ## About the  Dataset
+  * **Source**: The dataset is a simulated retail dataset representing MeteroGoods transactional sales record gotten from the Skills To Career Mentorship
+  * **Size**: Contains 1000 rows and 9 columns of transactional data
+  * **Key Feilds**
+    1. Transaction ID: Unique Identifier for each sale
+    2. Date: Date of Transaction, used for time based analysis
+    3. Customer ID: Unique identifiers for customers
+    4. Product Category: Category of items purchased
+    5. Quantity: Number of units sold
+    6. Selling Price per Unit: Price per unit of product
+    7. Gender: Gender of customers
+    8. Age: Age of customers
+    9. Revenue: Computed feild (Quantity * Selling Price per Unit)
+  
+   ## Tools Used
+   * **Microsoft Excel**: Core tool for analysis, visuslization annd dashboard creation.
+   * **Power Query**: For data cleaning, preparation, and transformation of raw raw dataset.
+   * **Pivot Tables &Pivot Charts**: To summarizeand analyze sales performance across multile dimensions
+   * **Excel Slicers**: To add interactivity and dynamic filtering to the dashboard.
+   *  **Github**: For documentation and portfolio presentation
+ 
+   ## Importig the Dataset
+   The MeteroGoods dataset was imported using Power Query in Microsoft Excel to ensure a smooth and structured woerkflow. The steps includes:
+   1. **Data Source Connection**: Connected directly to the raw excel file containing the raw MeteroGoods dataset via Power Query.
+   2. **Data TYpe Recognition**: Ensured all columns where assigned correct datatype.
+   3. **Initial Cleaning**: Applied basic transformations such as renaming columns, and checking for duplicates
+   4. **Load To Excel**: Loaded the clean dataset into Excel's Data Model for further analysis and dashboard development
+ 
+  ## Data Cleaning and Transformation
+   
