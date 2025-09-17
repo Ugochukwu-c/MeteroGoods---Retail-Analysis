@@ -100,5 +100,5 @@ Based on the insights derived from MeteroGoods Retail Sales Analysis, the follow
   ## Contact Information
   [LinkedIn](https://www.linkedin.com/in/chidera-ugochukwu-9468b534b)
   
-  Gmail: cugochukwu942@gmail.com
+  [Gmail](cugochukwu942@gmail.com)
   
