@@ -54,5 +54,17 @@ This project explores sales performance at MeteroGoods Retail Stores, focusing o
   * **Corrected Data Types**: Changed Transaction ID from number to text, since IDs are identifiers and not measurable, I also changed the date data type to date using locale, I changed       the Selling Price per Unit and revenue column to currency data type as well.
   * **Checked for Dupliates**: Checked for duplicates and didnt find any.
   * **Scanned for Missing Values**: Applied filters across columns to verify completeness
-  * **Ensured Consistency**: Validated that numeric feids contained only numerical values without text errors.  
+  * **Ensured Consistency**: Validated that numeric feids contained only numerical values without text errors.
+     
   ## Data Analysis
+  The MeteroGoods dataset was analyzed to evaluate sales performances, customer behavior, and revenue trends (Year-Year). The metrics and KpIs  explored includes:
+  * **Revenue**: Overall Revenue generated
+  * **Quantity**: Units sold across different product categories
+  * **Selling Price**: Total Price Sold
+  * **Monthly Sales Trend**: Time series analysis of sales volume and revenue across months.
+  * **Purchase Behavior Analysis**: Understanding customer buying patterns and frequency.
+  * **Best Performing Product**: Identifying producttop performing categories based on revenue
+  * **Revenue Contribution by Age Group**: Analyzing how different customers age bracket contributes to revenue.
+ 
+  ## Data Visualization
+  
