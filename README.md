@@ -98,6 +98,7 @@ Based on the insights derived from MeteroGoods Retail Sales Analysis, the follow
  The MeteroGoods Retail Sales Analysis revealed that the 45-54 age grade drives the highest revenue, electronics domnate sales, an bulk purchases account for over 90% of total revenue. Seasonal tends also showed May as the peak sales period, while beauty products underperformed. This insights provide a foundation for targeted marketing, smarter inventory planning, and stronge customer retention strategies, enabling MeteroGoods to make data driven decisions that boost revenue and efficiency.
 
   ## Contact Information
-  LinkedIn: https://www.linkedin.com/in/chidera-ugochukwu-9468b534b
+  [LinkedIn](https://www.linkedin.com/in/chidera-ugochukwu-9468b534b)
+  
   Gmail: cugochukwu942@gmail.com
   
