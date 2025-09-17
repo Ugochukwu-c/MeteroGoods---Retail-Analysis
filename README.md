@@ -49,4 +49,10 @@ This project explores sales performance at MeteroGoods Retail Stores, focusing o
    4. **Load To Excel**: Loaded the clean dataset into Excel's Data Model for further analysis and dashboard development
  
   ## Data Cleaning and Transformation
-   
+  To ensure MeteroGoods dataset was reliable and business ready, I aplied systematic cleaning and transformation steps in Power Query(Excel):
+  * **Renamed Columns for Clarity**: Simplified confusing headers to make the dataset stakeholder friendly(E.g "Total Amount" - "Revenue", and "Unit Per Price" - "Selling Price per            Unit")
+  * **Corrected Data Types**: Changed Transaction ID from number to text, since IDs are identifiers and not measurable, I also changed the date data type to date using locale, I changed       the Selling Price per Unit and revenue column to currency data type as well.
+  * **Checked for Dupliates**: Checked for duplicates and didnt find any.
+  * **Scanned for Missing Values**: Applied filters across columns to verify completeness
+  * **Ensured Consistency**: Validated that numeric feids contained only numerical values without text errors.  
+  ## Data Analysis
