@@ -89,7 +89,10 @@ Based on the insights derived from MeteroGoods Retail Sales Analysis, the follow
 1. **Customer Targeting and Marketing**: Launch Tailored campaigns for women aged 45-54, focusing on lifestyle and professional products.
    * Introduce loyalty programs or personalized offer to retain high value customer segments.
 2. **Product Stractegy**: Priotize Electronics in promotions, supplier negotiations and restocking to maximize evenue from the high demand category.
-   * Reaccess beauty products by testing new marketing strategies like influencer partenerships, and bundled offers and if performance does not increase gradually reallocate resources        to stronger categories
+   * Reaccess beauty products by testing new marketing strategies like influencer partenerships, and bundled offers and if performance does not increase gradually reallocate resources        to stronger categories.
+3. **Sales and Seasonal Planning**: Prepare for peak sales in may by increasing inventory levels, running targeted promotions, and aliging sales staff availability with demand spikes.
+4. **Customer Purchase Behavior**: Strenghten relationships with bulk buyers, who contributes over 90% of reveue by offering discounts, premium customer service and exclusive poduct          bundles.
+5. **Operational Efficiency**: Use insights to inform inventory plannng and reduce overstocking in low demand products
     
  
   
