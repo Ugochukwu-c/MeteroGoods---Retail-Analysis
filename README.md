@@ -74,19 +74,20 @@ To communicate insights effectively, i designed an interactive Excel dashboad co
 * **Line Chart (Monthly Sales Trend)**: Showing revenue trends across months to uncover seasonality and growth patterns.
 * **Pie Chart (Purchase Behavior Analysis)**: Illustrating customer purchasing distribution for a clear vew of buying patterns.
 * **Bar Chart (Revenue Contribution by Age Group)**: Comparing how different age brackets contribute to overall revenue.
+* **Slicers (Gender & Product Category)**: For filtering.
 This visualizations combined to a stakeholder ready dashboard allowing decision makersto explore sales peformance, customer behavior, and revenue trends at a glance.
 
 ## Key insights
 This analysis addressed sevsral critical business questions. Below are findingss tied directly to each question:
-1. **Which age group drives the highest revenue**: Customerss with ages ranging from 45-54 (Mature Adults) were the top revenue drivers contributing $97.2k in revenue.
-2. **Which product category contributes most in overall revenue**: Electronics led all product categories with $156.9k in revenue showing strong demand for tech products and gadgets.
+1. **Which age group drives the highest revenue**: Customerss with ages ranging from 35-44 (Mid Adults) were the top revenue drivers contributing $52.9k in revenue.
+2. **Which product category contributes most in overall revenue**: Electronics led all product categories with $159.9k in revenue showing strong demand for tech products and gadgets.
 3. **When are the peak sales period**: May emerged as the peak sales months, generating $58.6k in revenue
 4. **What purchase pattern do top spenders follow**: Bulk purchases accounted for 90% of total revenue (411.1k), far surpassing single purchases.
-5. **Which low performin product category should be improved**: Beauty products generated only $142.0k, signaling weak demand or poor positioning.
+5. **Which low performin product category should be improved**: Beauty products generated only $143.5k, signaling weak demand or poor positioning.
 
 ## Recommendations
 Based on the insights derived from MeteroGoods Retail Sales Analysis, the following actions are recommended to guide strategic decision making:
-1. **Customer Targeting and Marketing**: Launch Tailored campaigns for women aged 45-54, focusing on lifestyle and professional products.
+1. **Customer Targeting and Marketing**: Launch Tailored campaigns for women aged 35-44, focusing on lifestyle and professional products.
    * Introduce loyalty programs or personalized offer to retain high value customer segments.
 2. **Product Stractegy**: Priotize Electronics in promotions, supplier negotiations and restocking to maximize evenue from the high demand category.
    * Reaccess beauty products by testing new marketing strategies like influencer partenerships, and bundled offers and if performance does not increase gradually reallocate resources        to stronger categories.
@@ -95,7 +96,7 @@ Based on the insights derived from MeteroGoods Retail Sales Analysis, the follow
 5. **Operational Efficiency**: Use insights to inform inventory plannng and reduce overstocking in low demand products
     
  ## Conclusion
- The MeteroGoods Retail Sales Analysis revealed that the 45-54 age grade drives the highest revenue, electronics domnate sales, an bulk purchases account for over 90% of total revenue. Seasonal tends also showed May as the peak sales period, while beauty products underperformed. This insights provide a foundation for targeted marketing, smarter inventory planning, and stronge customer retention strategies, enabling MeteroGoods to make data driven decisions that boost revenue and efficiency.
+ The MeteroGoods Retail Sales Analysis revealed that the 35-44 age grade drives the highest revenue, electronics domnate sales, an bulk purchases account for over 90% of total revenue. Seasonal tends also showed May as the peak sales period, while beauty products underperformed. This insights provide a foundation for targeted marketing, smarter inventory planning, and stronge customer retention strategies, enabling MeteroGoods to make data driven decisions that boost revenue and efficiency.
 
   ## Contact Information
   [LinkedIn](https://www.linkedin.com/in/chidera-ugochukwu-9468b534b)
